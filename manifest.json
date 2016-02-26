@@ -2,7 +2,7 @@
     "name": "ReadLine",
     "version": "0.0.1",
     "manifest_version": 2,
-    "description": "Adding row line for easier reading",
+    "description": "Adds a line to the row to make your reading experience easier.",
     "homepage_url": "https://github.com/ademilter/read-line",
     "icons": {
         "16": "icons/icon16.png",
